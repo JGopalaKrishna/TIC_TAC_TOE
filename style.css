@@ -5,6 +5,7 @@ body{
  flex-direction: column;
  gap: 20px;
  background-color: #bbf8b0;
+  user-select: none;
 }
 header{
  width: 100%;
